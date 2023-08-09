@@ -17,6 +17,21 @@ using NewApp.Models;
 
 // System.Console.WriteLine(" Nhan vien {0} {1}*{2}+{3} = {4} ",HoTen, LCB,HeSo,PhuCap, LCB*HeSo+PhuCap);
 
-Employee e = new Employee();
+//Employee e = new Employee();
 //e.NhapThongTin();
-e.HienThi();
+//e.HienThi();
+
+int[] MangSo = new int[5];
+
+for(int i=0; i< 5; i++)
+{
+    Console.WriteLine("Nhap vao phan tu thu {0}: ", i);
+    MangSo[i] = Convert.ToInt32(Console.ReadLine());
+}
+
+Console.WriteLine("----------------------");
+
+for(int i= 0;i < MangSo.Length; i++)
+{
+    Console.Write(MangSo[i] + "--");
+}

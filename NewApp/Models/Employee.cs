@@ -30,6 +30,7 @@ namespace NewApp.Models
             Console.Write("Nhan vien " + HoTen);
             Console.WriteLine(" - " + DiaChi);
             Console.WriteLine(" - " + NamSinh);
+            Console.WriteLine(" - " + TinhTuoi(NamSinh));
         }
         public static int TinhTuoi(int NamSinh)
         {
