@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9pVHGEqEtuj0O1iZYdlc39wFjnMwmhjIELTGpc0K+9imX6a9AXmt9qLyyLc2AoK7T2/HjZ5qpPTCG3b2yyrC7g==",
+  "dgSpecHash": "iuu1pISC9n/tJdzQ73PcYV+YChgFCyEBvxDG9KmxXT/jIG1ThbtmTCdJuCx7WgVJNv6pnpK8US/UIfe4K6bWZw==",
   "success": true,
-  "projectFilePath": "D:\\Net_Core_API\\newapp\\NewApp.csproj",
+  "projectFilePath": "d:\\Net_Core_API\\NewApp\\NewApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
